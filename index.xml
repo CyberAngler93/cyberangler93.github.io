@@ -2,11 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matt Perry</title>
-    <link>https://cyberangler93.github.io/</link>
+    <link>https://mattp0.github.io/</link>
     <description>Recent content on Matt Perry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Aug 2021 11:58:25 -0800</lastBuildDate><atom:link href="https://cyberangler93.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Aug 2021 22:35:25 -0800</lastBuildDate>
+    
+	<atom:link href="https://mattp0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mattp0.github.io/contact/</link>
+      <pubDate>Mon, 16 Aug 2021 22:35:25 -0800</pubDate>
+      
+      <guid>https://mattp0.github.io/contact/</guid>
+      <description>Email</description>
+    </item>
+    
     <item>
       <title>Contact</title>
       <link>https://cyberangler93.github.io/contact/</link>
@@ -18,28 +31,28 @@
     
     <item>
       <title>About</title>
-      <link>https://cyberangler93.github.io/about/</link>
+      <link>https://mattp0.github.io/about/</link>
       <pubDate>Sat, 14 Aug 2021 11:58:25 -0800</pubDate>
       
-      <guid>https://cyberangler93.github.io/about/</guid>
+      <guid>https://mattp0.github.io/about/</guid>
       <description>Testing this is a link</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>https://cyberangler93.github.io/home/</link>
+      <link>https://mattp0.github.io/home/</link>
       <pubDate>Sat, 14 Aug 2021 11:58:25 -0800</pubDate>
       
-      <guid>https://cyberangler93.github.io/home/</guid>
+      <guid>https://mattp0.github.io/home/</guid>
       <description>Welcome! This page is under construction please contact me</description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>https://cyberangler93.github.io/post/welcome/</link>
+      <link>https://mattp0.github.io/post/welcome/</link>
       <pubDate>Sat, 14 Aug 2021 11:58:25 -0800</pubDate>
       
-      <guid>https://cyberangler93.github.io/post/welcome/</guid>
+      <guid>https://mattp0.github.io/post/welcome/</guid>
       <description>Hey this site is currently being built. Check back soon and it will be done!
 If you need to contact me my socials are on the left
 Thanks!</description>
